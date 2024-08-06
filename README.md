@@ -103,4 +103,4 @@ Para mais informações ou perguntas, entre em contato com:
 
 - Nome: João Vitor
 - Email: joaovitorbarbosa513@gmail.com
-- GitHub: [seu-usuario](https://github.com/Dev-barbosajv)
+- GitHub: [Dev-barbosajv](https://github.com/Dev-barbosajv)
