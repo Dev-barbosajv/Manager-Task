@@ -1,8 +1,4 @@
-Aqui está um exemplo de README para um aplicativo de gerenciamento de tarefas (Task Manager App) que pode te ajudar a estruturar seu próprio projeto:
-
----
-
-# Task Manager App
+# Task Manager App 💻
 
 ## Índice
 
@@ -105,10 +101,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Para mais informações ou perguntas, entre em contato com:
 
-- Nome: Seu Nome
-- Email: seu.email@example.com
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
-
----
-
-Esse README serve como um bom ponto de partida e pode ser ajustado conforme necessário para refletir as especificidades do seu projeto.
+- Nome: João Vitor
+- Email: joaovitorbarbosa513@gmail.com
+- GitHub: [seu-usuario](https://github.com/Dev-barbosajv)
